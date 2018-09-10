@@ -1,4 +1,4 @@
 # GAN
 Generative Adversarial Networks
 
-Simple GAN for clssifying and generating single digit numbers
+Simple GAN for classifying and generating single digit numbers
